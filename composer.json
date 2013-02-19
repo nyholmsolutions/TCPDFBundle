@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": ">=2.0",
-        "tcpdf/tcpdf": "dev-master"
+        "tecnick.com/tcpdf": "dev-master"
     },
     "autoload": {
         "psr-0": { "Wrep\\TCPDFBundle": "" }
